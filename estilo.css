@@ -1,0 +1,52 @@
+
+
+
+
+body {
+	background: #d2d2d2c1 url('imagens/fundo.png');
+	font: 16px Arial, helvetica, sans-serif;
+}
+
+#embaixofoto {
+	padding: 20px;
+	background-color: rgb(212, 211, 190);
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: bold;
+	width: 860px;
+
+}
+
+#principal {
+	width: 900px;
+}
+
+
+#conteudo {
+	padding: 20px;
+	background-size: 0%;
+	background-color: rgb(253, 251, 237);
+	width: 860px;
+}
+
+#sobre {
+	font-weight: 750;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	color: rgb(138, 139, 126);
+}
+
+.paragrafos {
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	font-weight: 400;
+}
+
+
+#imagemcampanha {
+	border: 9px solid;
+	border-color:  rgb(212, 211, 190);
+}
+
+#rodape {
+	font-weight:800;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+	width: 900px;
+}
